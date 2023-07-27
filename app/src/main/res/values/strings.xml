@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ejercicio_indiv_7_M_5</string>
+
+    <string name="title">Verifica Seguridad de Contraseña</string>
+    <string name="hint_enter_password">Ingrese la contraseña</string>
+    <string name="level_security">Nivel de seguridad: Desconocido</string>
+    <string name="button_check_security">Verificar</string>
+</resources>
